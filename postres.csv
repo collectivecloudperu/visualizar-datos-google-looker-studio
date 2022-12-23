@@ -1,0 +1,7 @@
+id,nombre,stock,precio,url,img,fecha
+1,Torta de Chocolate,35,5.00,torta-de-chocolate,tc.jpg,2019-06-17 15:56:23
+2,Pie de Manzana,45,4.50,pie-de-manzana,pm.jpg,2018-08-11 16:25:33
+3,Arroz con Leche,36,2.50,arroz-con-leche,al.jpg,2018-08-11 16:25:36
+4,Gelatina de Fresa,60,1.50,gelatina-de-fresa,gf.jpg,2018-08-11 16:25:39
+5,Suspiro a la Limeña,26,6.00,suspiro-a-la-limeña,sl.jpg,2019-06-17 15:58:43
+6,Mazamorra Morada,50,3.00,mazamorra-morada,mm.png,2018-08-11 16:25:45
